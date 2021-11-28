@@ -5,25 +5,21 @@ Documentation, repos and examples on how to integrate Marinade.Finance, from on-
 
 ### What is Marinade?
 
-* General documentation: [docs.marinade.finance](docs.marinade.finance) 
-* Technical Back-End Design Docs: https://github.com/marinade-finance/liquid-staking-program/blob/main/Docs/Backend-Design.md
+General documentation: [docs.marinade.finance](docs.marinade.finance) 
 
 ## Integration Code Examples
 
 ### Integrating from javascript/typescript
 
-#### Deposit SOL, get mSOL
-https://github.com/marinade-finance/marinade-ts-cli/blob/main/src/marinade.ts#L110
-
-#### "Unstake Now!/liquid-unstake": Swap mSOL->SOL with a 0.3% fee: 
-https://github.com/marinade-finance/marinade-ts-cli/blob/main/src/marinade.ts#L152
+Marinade Typescript/Javascript SDK: https://github.com/marinade-finance/marinade-ts-sdk
 
 ### Integrating from other on-chain programs
 
-#### Marinade on-chain SDK (NOT A PUBLIC REPO YET)
-https://github.com/marinade-finance/marinade-anchor/blob/main/sdk/onchain/src/lib.rs
+Rust, on-chain SDK: https://github.com/marinade-finance/liquid-staking-onchain-sdk
 
-## Main Backend code references
+## Main Back-End code references
+
+Technical Back-End Design Docs: https://github.com/marinade-finance/liquid-staking-program/blob/main/Docs/Backend-Design.md
 
 ### Stake
 
