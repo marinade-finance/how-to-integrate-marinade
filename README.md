@@ -15,7 +15,7 @@ Marinade Typescript/Javascript SDK: https://github.com/marinade-finance/marinade
 
 ### Integrating from other on-chain programs
 
-Rust, on-chain SDK: https://github.com/marinade-finance/liquid-staking-onchain-sdk
+Referral-program example, how to call Marinade from another Anchor program on-chain: https://github.com/marinade-finance/liquid-staking-referral-program
 
 ## Main Back-End code references
 
